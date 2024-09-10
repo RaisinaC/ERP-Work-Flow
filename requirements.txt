@@ -1,0 +1,14 @@
+
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+keras-tuner
+Pillow
+rasterio
+numpy
+scikit-learn
+geopandas
+shapely
+
